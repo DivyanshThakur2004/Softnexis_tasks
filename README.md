@@ -19,12 +19,9 @@ This repository contains solutions for Java Developer Task 1, covering Java envi
 ## Technologies Used
 
 - Java 17
-- IntelliJ IDEA Community Edition
 - Git & GitHub
 
-## How to Run
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Java-Developer-Task-1.git
+## Task
+- Domain = 2
+- Java Full Stack Web Development Task 1
