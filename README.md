@@ -24,4 +24,4 @@ This repository contains solutions for Java Developer Task 1, covering Java envi
 
 ## Task
 - Domain = 2
-- Java Full Stack Web Development Task 1
+- Java Full Stack Web Development Task 1 
