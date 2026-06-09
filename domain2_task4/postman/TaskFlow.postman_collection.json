@@ -1,0 +1,8 @@
+
+{
+ "info":{"name":"TaskFlow API"},
+ "item":[
+  {"name":"Get Tasks","request":{"method":"GET","url":"{{baseUrl}}/api/tasks"}},
+  {"name":"Create Task","request":{"method":"POST","url":"{{baseUrl}}/api/tasks"}}
+ ]
+}
